@@ -1,0 +1,13 @@
+ .cards {
+   display: flex;
+   justify-content: space-around;
+ }
+ 
+ .card {
+  padding:  10px 10px;
+  width: 350px;
+ }
+
+ .img-sm {
+   width: 350px;
+ }
